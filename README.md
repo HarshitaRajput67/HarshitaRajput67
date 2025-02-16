@@ -22,7 +22,7 @@ sections and get all the knowledge.</h3>
 </details>
 </details>
 <details><summary><h1>Contact</h1></summary>
- <a href= [harshitarajput574@gmail.com](https://mail.google.com/mail/u/0/#inbox)> 
+ <a href= https://mail.google.com/mail/u/0/#inbox> 
    <button style=" color: white;"> Gmail </button>
  </a>
  <a href= https://in.linkedin.com/in/harshita-rajput-98a8b82ba?trk=public_post_follow-view-profile>   <button> LinkedIn </button>
