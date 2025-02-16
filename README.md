@@ -1,19 +1,20 @@
-🚀 About Me
-I am Hatshita Rajput.
-I'm a passionate Software Developer with a strong foundation in Python, SQL, Data Structures, and DBMS. I enjoy building efficient and scalable solutions, analyzing data, and solving complex problems.
+<h1 align="center">Hi 👋, I'm Harshita Rajput</h1>
+<h3 align="center">"Code, Commit. Create." "Building ideas" "Efficient code" "Innovate"</h3>
 
-💡 What I’m Working On
-🔹 Enhancing my skills in Machine Learning & Data Analytics
-🔹 Exploring Full-Stack Web Development
-🔹 Collaborating on innovative open-source projects
+- 🌱 I’m currently learning **Courses:- Software Engineering(Skyscanner)**
 
-🛠 Technical Skills
-✔ Programming Languages: Python, SQL, JavaScript
-✔ Databases: MySQL, MongoDB
-✔ Frameworks: Flask, React
-✔ Tools & Platforms: Git, VS Code, Jupyter Notebook
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/posts/harshita-rajput-98a8b82ba_introducing-%E0%A4%B5%E0%A4%B8%E0%A4%A4%E0%A4%B0-a-clothing-brand-website-activity-7278282885143396352-npjI?utm_source=share&utm_medium=member_android&rcm=ACoAAEyp9noBsYRg01p4iOHBSCsT98xU7Zewrog https://www.linkedin.com/posts/harshita-rajput-98a8b82ba_need-your-feedback-please-let-me-know-how-activity-7195801823910199296-L3nQ?utm_source=share&utm_medium=member_android&rcm=ACoAAEyp9noBsYRg01p4iOHBSCsT98xU7Zewrog](https://www.linkedin.com/posts/harshita-rajput-98a8b82ba_introducing-%E0%A4%B5%E0%A4%B8%E0%A4%A4%E0%A4%B0-a-clothing-brand-website-activity-7278282885143396352-npjI?utm_source=share&utm_medium=member_android&rcm=ACoAAEyp9noBsYRg01p4iOHBSCsT98xU7Zewrog https://www.linkedin.com/posts/harshita-rajput-98a8b82ba_need-your-feedback-please-let-me-know-how-activity-7195801823910199296-L3nQ?utm_source=share&utm_medium=member_android&rcm=ACoAAEyp9noBsYRg01p4iOHBSCsT98xU7Zewrog)
 
-🤝 Let's Connect
-📧 Email: harshitarajput574@gmail.com
+- 📫 How to reach me **harshitarajput574@gmail.com**
 
-✨ "Code is like humor. When you have to explain it, it’s bad." – Cory House
+- 📄 Know about my experiences [https://in.docworkspace.com/d/sIK-UmuBg993IvAY](https://in.docworkspace.com/d/sIK-UmuBg993IvAY)
+
+- ⚡ Fun fact **I have a talent of making things from scratch like, piggybank, flower pot, keychain, mini craft, etc.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harshita rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshita rajput" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
