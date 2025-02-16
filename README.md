@@ -6,7 +6,7 @@
 <details> <summary><h1>Education</h1></summary>
   <h2>Graduation:- I completed by B-Tech in Computer Science and Data Science from "Oriental Institute of Science and Technology Bhopal" with  CGPA: 8.78 On 2024</h2>
   <h2>12th:- I completed by 12th standard with (PCMB) where i secure 73.4%</h2>
-    <h2>12th:- I completed by 10th standard where i secure 84.6%</h2>
+    <h2>10th:- I completed by 10th standard where i secure 84.6%</h2>
 
 </details>
 <details><summary><h1>Projects</h1></summary>
