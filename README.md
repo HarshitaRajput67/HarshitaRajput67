@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @HarshitaRajput67
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 About Me
+I am Hatshita Rajput.
+I'm a passionate Software Developer with a strong foundation in Python, SQL, Data Structures, and DBMS. I enjoy building efficient and scalable solutions, analyzing data, and solving complex problems.
 
-<!---
-HarshitaRajput67/HarshitaRajput67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 What I’m Working On
+🔹 Enhancing my skills in Machine Learning & Data Analytics
+🔹 Exploring Full-Stack Web Development
+🔹 Collaborating on innovative open-source projects
+
+🛠 Technical Skills
+✔ Programming Languages: Python, SQL, JavaScript
+✔ Databases: MySQL, MongoDB
+✔ Frameworks: Flask, React
+✔ Tools & Platforms: Git, VS Code, Jupyter Notebook
+
+🤝 Let's Connect
+📧 Email: harshitarajput574@gmail.com
+
+✨ "Code is like humor. When you have to explain it, it’s bad." – Cory House
