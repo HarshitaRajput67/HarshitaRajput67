@@ -22,10 +22,12 @@ sections and get all the knowledge.</h3>
 </details>
 </details>
 <details><summary><h1>Contact</h1></summary>
- <a href= https://mail.google.com/mail/u/0/#inbox> 
-   <button style=" color: white;"> Gmail </button>
- </a>
  <a href= https://in.linkedin.com/in/harshita-rajput-98a8b82ba?trk=public_post_follow-view-profile>   <button> LinkedIn </button>
+   </a>
+</details>
+<details><summary><h1>Internship</h1></summary>
+<a href=https://in.docworkspace.com/d/sIK-UmuBg993IvAY?sa=601.1064
+  <button>Resume</button>
    </a>
 </details>
 <details><summary><h1>Skills</h1></summary>
@@ -34,6 +36,8 @@ sections and get all the knowledge.</h3>
   <p>Data Structure, Database Management,</p>
 </details>
 <details><summary><h1>Resume</h1></summary>
-<a href=https://in.linkedin.com/in/harshita-rajput(https://in.docworkspace.com/d/sIK-UmuBg993IvAY)>   <button>Resume</button>
+<a href=https://in.docworkspace.com/d/sIK-UmuBg993IvAY?sa=601.1064
+  <button>Resume</button>
    </a>
 </details>
+
