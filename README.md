@@ -26,8 +26,11 @@ sections and get all the knowledge.</h3>
    </a>
 </details>
 <details><summary><h1>Internship</h1></summary>
-<a href=https://in.docworkspace.com/d/sIK-UmuBg993IvAY?sa=601.1064
-  <button>Resume</button>
+   <p> Software Engineering job Simulation, (FORAGE), REMOTE :- 
+I has completed practical tasks in: Write a Feature Proposal, Create a Game Object Class, Improve
+Inventory System, Live Bugfix.</p>
+<a href=https://in.docworkspace.com/d/sIECUmuBgv6rLvQY
+  <button>Certificate</button>
    </a>
 </details>
 <details><summary><h1>Skills</h1></summary>
